@@ -1,2 +1,2 @@
-# OOPS-in-Java
-OOPS concepts in Java
+# Object-Oriented-Programming
+OOPS using java
